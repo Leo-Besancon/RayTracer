@@ -4,11 +4,10 @@
 *.dll
 *.lib
 *.exe
-*.bmp
 *.zip
 Debug/*
 Release/*
-Images/*
+Images2/*
 *.lnk
 x64/*
 T-Rex/*
